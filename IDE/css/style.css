@@ -1,0 +1,15 @@
+body, html {
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+@font-face {
+  font-family: "Monaco";
+  src: url(/Fonts/Monaco/MONACO.TTF) format("truetype");
+}
+
+#ide {
+  border-radius: 5px;
+}
